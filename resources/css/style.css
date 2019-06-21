@@ -27,6 +27,7 @@ html {
 
 .image-container {
   overflow: hidden;
+  max-width: 680px;
 }
 
 .image-container img {
@@ -261,7 +262,7 @@ header .mobile {
 
 #features-section {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   padding: 4rem 5%;
   background-color: #f3f3f3;
 }
@@ -271,6 +272,7 @@ header .mobile {
   padding: 2rem;
   margin: 0px 1.25rem;
   background-color: white;
+  max-width: fit-content;
 }
 
 .feature .image-container {
