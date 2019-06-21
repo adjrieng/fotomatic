@@ -7,4 +7,8 @@ Anyhoot, the primary issue with the exercise is that @media queries were not fun
 That said, I also spruced things up with some min/max's and the like. Enjoy ;-) 
 
 
+*update - commit 3
+- cleaned up <head>
+- added a favicon
+
 Thanks
