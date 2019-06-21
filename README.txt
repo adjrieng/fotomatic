@@ -11,4 +11,11 @@ That said, I also spruced things up with some min/max's and the like. Enjoy ;-)
 - cleaned up <head>
 - added a favicon
 
+
+*update - commit 4
+Noticed on my jumbo-tron the the #filters-section .images-container was not centering soooooo...
+
+- added "justify-content: center;" to the Rule Set.. I feel better now. ;-)
+
+
 Thanks

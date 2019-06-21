@@ -363,6 +363,7 @@ header .mobile {
   display: flex;
   max-width: 100%;
   padding: 0 1%;
+  justify-content: center;
 }
 
 @media only screen and (max-width: 600px) {
